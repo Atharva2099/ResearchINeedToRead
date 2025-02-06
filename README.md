@@ -13,7 +13,7 @@ A curated collection of influential research papers in AI and Large Language Mod
 ## Foundational Papers
 - **The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain**
   - Foundational paper introducing the perceptron model
-  - [Read Paper](THE%20PERCEPTRON-%20A%20PROBABILISTIC%20MODEL%20FOR%20INFORMATION%20STORAGE%20AND%20ORGANIZATION%20IN%20THE%20BRAIN.pdf)
+  - [Read Paper](papers/THE%20PERCEPTRON-%20A%20PROBABILISTIC%20MODEL%20FOR%20INFORMATION%20STORAGE%20AND%20ORGANIZATION%20IN%20THE%20BRAIN.pdf)
 
 - **Learning Representations by Back-propagating Errors**
   - Fundamental paper on backpropagation algorithm
