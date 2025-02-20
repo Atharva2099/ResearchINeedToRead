@@ -78,7 +78,7 @@ A curated collection of influential research papers in AI and Large Language Mod
 
 - **Proximal Policy Optimisation Algorithm**
   - Pre-Training finetuning Technique
-  - [Read Paper](papers/PPO_Proximal_Policy_Optimisation_Algo.pdf)
+  - [Read Paper](papers/%28PPO%29%20Proximal%20Policy%20Optimisation%20Algo.pdf)
 
 - **Quantized Neural Networks**
   - Network quantization techniques
