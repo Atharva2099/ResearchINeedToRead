@@ -76,6 +76,10 @@ A curated collection of influential research papers in AI and Large Language Mod
   - Optimization for attention computation
   - [Read Paper](papers/FlashAttention-%20Fast%20and%20Memory-Efficient%20Exact%20Attention%20with%20IO-Awareness.pdf)
 
+- **Proximal Policy Optimisation Algorithm**
+  - Pre-Training finetuning Technique
+  - [Read Paper](papers/(PPO)%20Proximal%20Policy%20Optimisation%20Algo.pdf)
+
 - **Quantized Neural Networks**
   - Network quantization techniques
   - [Read Paper](papers/Quantized%20Neural%20Networks-%20Training%20Neural%20Networks%20with%20Low%20Precision%20Weights%20and%20Activations.pdf)
