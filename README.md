@@ -4,6 +4,7 @@ A curated collection of influential research papers in AI and Large Language Mod
 
 ## Table of Contents
 - [Foundational Papers](#foundational-papers)
+- [Tokenization](#tokenization)
 - [Attention and Transformers](#attention-and-transformers)
 - [Large Language Models](#large-language-models)
 - [Training Techniques](#training-techniques)
