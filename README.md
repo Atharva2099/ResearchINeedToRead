@@ -98,6 +98,10 @@ A curated collection of influential research papers in AI and Large Language Mod
 - **SigLIP: Sigmoid Loss for Language Image Pre-Training**
   - Advanced loss function for multimodal learning
   - [Read Paper](papers/%28SigLIP%29%20Sigmoid%20Loss%20for%20Language%20Image%20Pre-Training.pdf)
+ 
+- **Byte Latent Transformer**
+  - A New paradigm for tokenisation
+  - [Read Paper](papers/%28BLT%29%20Byte%20Latent%20Transformer.pdf)
 
 ## Contributing
 Feel free to suggest additional papers or improvements to this collection by creating an issue or pull request.
