@@ -23,6 +23,24 @@ A curated collection of influential research papers in AI and Large Language Mod
   - Comprehensive overview of deep learning techniques
   - [Read Paper](papers/Deep%20learning.pdf)
 
+## Tokenization
+
+- **Neural Machine Translation of Rare Words with Subword Units (BPE - Byte Pair Encoding)**
+  - Introduces BPE for subword tokenization
+  - [Read Paper]()
+
+- **SentencePiece: A Simple and Language Independent Subword Tokenizer**
+  - Unigram & BPE-based tokenization without pre-tokenization
+  - [Read Paper]()
+
+- GPT-2’s Byte-Level BPE: Language Models are Few-Shot Learners
+  - Tokenization at the byte level (raw UTF-8 processing)
+  - [Read Paper]()
+
+- Byte Latent Transformer (BLT) (Byte-Level Tokenization-Free Model)
+  - Uses raw bytes for transformer-based modeling
+  - [Read Paper]()
+  
 ## Attention and Transformers
 - **Attention Is All You Need**
   - Original transformer architecture paper
