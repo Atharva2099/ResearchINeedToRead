@@ -27,19 +27,15 @@ A curated collection of influential research papers in AI and Large Language Mod
 
 - **Neural Machine Translation of Rare Words with Subword Units (BPE - Byte Pair Encoding)**
   - Introduces BPE for subword tokenization
-  - [Read Paper]()
+  - [Read Paper](papers/%28BPE%20-%20Byte%20Pair%20Encoding%29%20Neural%20Machine%20Translation%20of%20Rare%20Words%20with%20Subword%20Units.pdf)
 
 - **SentencePiece: A Simple and Language Independent Subword Tokenizer**
   - Unigram & BPE-based tokenization without pre-tokenization
-  - [Read Paper]()
+  - [Read Paper](papers/SentencePiece-%20A%20Simple%20and%20Language%20Independent%20Subword%20Tokenizer.pdf)
 
-- GPT-2’s Byte-Level BPE: Language Models are Few-Shot Learners
-  - Tokenization at the byte level (raw UTF-8 processing)
-  - [Read Paper]()
-
-- Byte Latent Transformer (BLT) (Byte-Level Tokenization-Free Model)
-  - Uses raw bytes for transformer-based modeling
-  - [Read Paper]()
+- **Byte Latent Transformer**
+  - A New paradigm for tokenisation
+  - [Read Paper](papers/%28BLT%29%20Byte%20Latent%20Transformer.pdf)
   
 ## Attention and Transformers
 - **Attention Is All You Need**
@@ -116,10 +112,6 @@ A curated collection of influential research papers in AI and Large Language Mod
 - **SigLIP: Sigmoid Loss for Language Image Pre-Training**
   - Advanced loss function for multimodal learning
   - [Read Paper](papers/%28SigLIP%29%20Sigmoid%20Loss%20for%20Language%20Image%20Pre-Training.pdf)
- 
-- **Byte Latent Transformer**
-  - A New paradigm for tokenisation
-  - [Read Paper](papers/%28BLT%29%20Byte%20Latent%20Transformer.pdf)
 
 ## Contributing
 Feel free to suggest additional papers or improvements to this collection by creating an issue or pull request.
